@@ -11,8 +11,8 @@
 
 MYPORT = 5009
 # MYGROUP_4 = '225.0.0.250'
-MYGROUP_4 = '239.0.0.1'
-#MYGROUP_4 = '224.0.0.1'
+#MYGROUP_4 = '239.0.0.1'  # autonomy server
+MYGROUP_4 = '224.0.0.1'
 MYTTL = 5 # Increase to reach other networks
 
 import time
